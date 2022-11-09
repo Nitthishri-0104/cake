@@ -1,0 +1,68 @@
+h1{
+color:brown;
+text-align:center;
+font-size:70px;
+font-family:serif;
+background-image:url("pancake2.jpg") , url("pancake3.jpg");
+padding-bottom:50px;
+padding-top:50px;
+text-decoration:underline;
+text-shadow:-3px 3px black;
+}
+body{
+	background-image:url("cake1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+	
+}
+img{
+	height:400px;
+	width:400px;
+	border-radius:50%;
+	border:solid 4px darkblue;
+}
+main{
+	
+	display:flex;
+	flex-direction:row;
+
+}
+.main-content{
+	margin-top:0px;
+margin-left:50px;	
+}
+.main{
+	margin-top:100px;
+margin-left:50px;
+}
+p{
+	font-size:30px;
+}
+h2{
+	font-size:50px;
+	color:brown;
+}
+footer{
+	background-color:blue;
+	padding-top:50px;
+	padding-bottom:50px;
+	font-size:30px;
+}
+ol{
+	font-size:25px;
+}
+button{
+	background-color:brown;
+	border-radius:20%;
+	color:white;
+	margin-left:1300px;
+	
+}
+h3{
+	font-size:50px;
+}
+button:hover{
+	color:gold;
+	font-size:20px;
+}

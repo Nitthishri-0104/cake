@@ -1,0 +1,16 @@
+body{
+	background-image:url("cake1.jpg");
+	background-size:cover;
+	
+}
+
+form{
+	display: flex;
+	justify-content: center;
+	margin-top: 25%;
+	
+}
+
+form div {
+	padding: 10px;
+}
